@@ -29,8 +29,8 @@
 		<div class="tagline">Michelle  |  Layne  |  Yifan </div>
     <div class="tagline">This is our assignment:</div>
 		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
-		<div class="icons-social">
-			<a target="_blank" href="https://github.com/yifanyang21/Metropolitan-Data-1/blob/main/Assignment1/assignment-1.ipynb">
+	<div class="icons-social">
+	  <a target="_blank" href="https://github.com/yifanyang21/Metropolitan-Data-1/blob/main/Assignment1/assignment-1.ipynb">
         <i class="fab fa-heart"  aria-hidden="true" title="Assignment1"></i>
         <span class="sr-only">Assignment1</span>
       </a>
